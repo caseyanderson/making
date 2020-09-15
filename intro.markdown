@@ -2,7 +2,6 @@
 layout: page
 title: "intro"
 permalink: /intro/
-published: false
 ---
 
 <div class="posts">
