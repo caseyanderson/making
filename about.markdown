@@ -6,37 +6,38 @@ permalink: /about/
 
 ## description
 
-REWRITE THIS! This prototyping-oriented series of workshops introduces students to the creative affordances of physical computing, or the practice of interfacing digital system with the outside world, by way of hands-on experiments across a continuum of technologies. Students will learn programming concepts (Python3), and basic electronics, as well as strategies for their interaction, via the HUZZAH32. Regular critiques will provide an opportunity for students to share their research and prototypes with their colleagues as well as receive direct feedback from the instructor.
+This interactive, participatory series of workshops introduces students to the creative affordances of programming (Python 3), electronics, their interaction (Physical Computing via the ESP32), and their potential for controlling media (via the Raspberry Pi). Special emphasis is placed on Free-Libre / Open Source Software (FLOSS) technologies that are general purpose and hackable.
 
 ## required materials
 
 * Laptop (Mac or PC)
-* Full-size breadboard
-* Breadboarding wire bundle
-* Small Alligator Clip Test Lead - REPLACE THESE WITH THOSE SMALL ONES!
-* Breadboard trim potentiometer - 10K
-* Photo cell
-* DC Brushless Motor
-* TIP120 Transistor
-* 1N1001 Diode
-* Buttons (SPST)
-* Through-Hole Resistors - 220 ohm 10% 1/4W
-* Through-Hole Resistors - 10K ohm 10% 1/4W
-* LEDs
+* [Full-size breadboard](https://www.amazon.com/Breadboards-Raspberry-Preformed-Solderless-prototyping/dp/B07TVC1T1S)
+* [Breadboarding wire bundle](https://www.amazon.com/Solderless-Flexible-Breadboard-Jumper-100pcs/dp/B005TZJ0AM)
+* [Breadboard trim potentiometer - 10K](https://www.digikey.com/products/en?mpart=356&v=1528)
+* [Photo cell](https://www.digikey.com/products/en?mpart=161&v=1528)
+* [DC Brushless Motor](https://www.digikey.com/products/en?mpart=711&v=1528)
+* [TIP120 Transistor](https://www.digikey.com/product-detail/en/on-semiconductor/TIP120TU/TIP120TUFS-ND/1052473)
+* [1N4001 Diode](https://www.digikey.com/product-detail/en/comchip-technology/1N4001-G/641-1310-3-ND/1979654)
+* [Buttons (SPST)](https://www.amazon.com/6x6x6mm-Momentary-Push-Button-Switch/dp/B01GN79QF8)
+* [Through-Hole Resistors - 220 ohm 10% 1/4W](https://www.digikey.com/product-detail/en/yageo/CFR-25JB-52-220R/220QBK-ND/1295)
+* [Through-Hole Resistors - 10K ohm 10% 1/4W](https://www.digikey.com/product-detail/en/stackpole-electronics-inc/CF14JT10K0/CF14JT10K0CT-ND/1830374)
+* [LEDs](https://www.amazon.com/Projects-B-0001-B07-Red-LED-Pack/dp/B00B793SIE)
 
 
 ### ESP32
 
-* Adafruit HUZZAH32 – ESP32 Feather Board (pre-soldered)
-* 1 of the Following: USB A to Micro-B or USB C to Micro-B
+* [Adafruit HUZZAH32 – ESP32 Feather Board (pre-soldered)](https://www.digikey.com/products/en?mpart=3591&v=1528)
+* 1 of the Following: [USB A to Micro-B](https://www.amazon.com/dp/B0711PVX6Z) or [USB C to Micro-B](https://www.amazon.com/dp/B00UUBRX0Y?psc=1)
 
 
 ### RPi
 
-* Raspberry Pi 3 - Model B+ - 1.4GHz Cortex-A53 with 1GB RAM
-* 5V 2.5A Switching Power Supply with 20AWG MicroUSB Cable
-* SD/MicroSD Memory Card (8 GB SDHC)
-* ADC thing....
+* [Raspberry Pi 3 - Model B+ - 1.4GHz Cortex-A53 with 1GB RAM](https://www.adafruit.com/product/3775)
+* [5V 2.5A Switching Power Supply with 20AWG MicroUSB Cable](https://www.adafruit.com/product/1995)
+* [SD/MicroSD Memory Card (8 GB SDHC)](https://www.adafruit.com/product/1294)
+* [USB to SD Card reader](https://www.adafruit.com/product/1294) or similar
+* [Assembled Pi T-Cobbler Plus - GPIO Breakout - Pi A+, B+, Pi 2/3/4, Zero](https://www.adafruit.com/product/2028)
+* [ADS1115 16-Bit ADC - 4 Channel with Programmable Gain Amplifier](https://www.adafruit.com/product/1085)
 
 
 ## Workshop Schedule (subject to change)
@@ -47,9 +48,9 @@ REWRITE THIS! This prototyping-oriented series of workshops introduces students 
 * Week 3: Paper Circuits
 
 ### Physical Computing (ESP32)
-* Week 4: TBA
-* Week 5: TBA
-* Week 8: TBA Deployment
+* Week 4: Voltage Dividers / Sensors
+* Week 5: Multitasking
+* Week 8: Deployment
 
 ### Media Control (RPi)
 * Week 9: Loop a Video Forever

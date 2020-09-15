@@ -1,10 +1,11 @@
 
 title: code + electronics
 email: casey.anderson@artcenter.edu
-description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+description:
+  This interactive, participatory series of workshops introduces students
+  to the creative affordances of programming, electronics, their
+  interaction, and their potential for controlling media.
+  Special emphasis is placed on FLOSS technologies that are general purpose and hackable.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://making.caseyanderson.com/"
 github_username: caseyanderson
