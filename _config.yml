@@ -2,10 +2,10 @@
 title: code + electronics
 email: casey.anderson@artcenter.edu
 description:
-  This interactive, participatory series of workshops introduces students
+  This series of interactive workshops introduces students
   to the creative affordances of programming, electronics, their
   interaction, and their potential for controlling media.
-  Special emphasis is placed on FLOSS technologies that are general purpose and hackable.
+  Special emphasis is placed on FOSS technologies that are general purpose and hackable.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://making.caseyanderson.com/"
 github_username: caseyanderson

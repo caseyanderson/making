@@ -4,9 +4,9 @@ title: about
 permalink: /about/
 ---
 
-## description
+This series of interactive workshops introduces students to the creative affordances of programming (Python 3), electronics, their interaction (Physical Computing via the ESP32), and their potential for controlling media (via the Raspberry Pi). Special emphasis is placed on Free Open Source Software (FOSS) technologies that are general purpose and hackable.
 
-This interactive, participatory series of workshops introduces students to the creative affordances of programming (Python 3), electronics, their interaction (Physical Computing via the ESP32), and their potential for controlling media (via the Raspberry Pi). Special emphasis is placed on Free-Libre / Open Source Software (FLOSS) technologies that are general purpose and hackable.
+Meeting Time: 5:00PM to 6:30PM PST via Zoom (see email for Zoom info)
 
 ## required materials
 
@@ -22,6 +22,8 @@ This interactive, participatory series of workshops introduces students to the c
 * [Through-Hole Resistors - 220 ohm 10% 1/4W](https://www.digikey.com/product-detail/en/yageo/CFR-25JB-52-220R/220QBK-ND/1295)
 * [Through-Hole Resistors - 10K ohm 10% 1/4W](https://www.digikey.com/product-detail/en/stackpole-electronics-inc/CF14JT10K0/CF14JT10K0CT-ND/1830374)
 * [LEDs](https://www.amazon.com/Projects-B-0001-B07-Red-LED-Pack/dp/B00B793SIE)
+* [Bertech Copper Foil Tape with Conductive Adhesive, 1/4 In. Wide x 36 Yards Long](https://www.amazon.com/Bertech-Copper-Conductive-Yards-Thick/dp/B009KB86BU) or similar
+* [Xacto X3311 N0. 1 Precision Knife With 5 No. 11 Blades](https://www.amazon.com/Xacto-X3311-Precision-Knife-Blades/dp/B0000DD1N4)
 
 
 ### ESP32
@@ -47,10 +49,12 @@ This interactive, participatory series of workshops introduces students to the c
 * Week 2: Python3
 * Week 3: Paper Circuits
 
+
 ### Physical Computing (ESP32)
 * Week 4: Voltage Dividers / Sensors
 * Week 5: Multitasking
 * Week 8: Deployment
+
 
 ### Media Control (RPi)
 * Week 9: Loop a Video Forever
