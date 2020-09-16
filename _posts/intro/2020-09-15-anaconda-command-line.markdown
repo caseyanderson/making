@@ -6,16 +6,7 @@ categories: "intro"
 week: "1"
 ---
 
-### Materials
-#### MacOS
-* Laptop
-* Terminal
-
-#### Windows 10
-* Laptop
-* Anaconda Powershell
-
-
+## Anaconda
 ### Installation
 #### MacOS
 1. Click [here](https://repo.anaconda.com/archive/Anaconda3-2020.07-MacOSX-x86_64.pkg) to download the latest version of `Anaconda Navigator` for `MacOS`
@@ -39,6 +30,7 @@ week: "1"
 
 Note: who would like to take a screenshot of the Anaconda Powershell and send it to me? Thx!
 
+
 ### Command Prompt
 #### MacOs
 `$`
@@ -49,6 +41,17 @@ Note: who would like to take a screenshot of the Anaconda Powershell and send it
 The command prompt, illustrated above per operating system, indicates to a user where they can enter commands (type things)
 
 
+### Create A Conda Environment
+
+In the Terminal (MacOS) or Anaconda Powershell Prompt (Windows 10):
+
+1. `conda create -n making_intro python=3.8`
+2. `conda activate making_intro`
+3. `pip install beautifulsoup4`
+4. `conda list` (confirms that `beautifulsoup4` has been installed)
+5. `conda activate`
+
+## The Command Line
 ### Moving Around
 * `pwd`: or print working directory, shows the directory you are currently in
 * `ls`: lists all contents of a directory (folder)
@@ -111,4 +114,3 @@ The command prompt, illustrated above per operating system, indicates to a user 
     you should see both `data1` and `data2`
 15. another way to explore files via the command line is with `nano`, the command to launch teh GNU nano text editor. Open `data.txt` in nano: `nano data.txt`
 16. you can navigate through `data.txt` with the arrow keys and will notice a rather old-fashioned User Interface at the bottom of the window. Ctl-X to exit
-
