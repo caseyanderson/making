@@ -2,7 +2,6 @@
 layout: page
 title: ESP32
 permalink: /esp32/
-published: false
 ---
 
 <div class="posts">

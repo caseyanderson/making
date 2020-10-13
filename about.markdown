@@ -13,12 +13,12 @@ Meeting Time: 5:00PM to 6:30PM PST via Zoom (see email for Zoom info)
 * Laptop (Mac or PC)
 * [Full-size breadboard](https://www.amazon.com/Breadboards-Raspberry-Preformed-Solderless-prototyping/dp/B07TVC1T1S)
 * [Breadboarding wire bundle](https://www.amazon.com/Solderless-Flexible-Breadboard-Jumper-100pcs/dp/B005TZJ0AM)
-* [Breadboard trim potentiometer - 10K](https://www.digikey.com/products/en?mpart=356&v=1528)
+* [Breadboard trim potentiometer - 10K](https://www.amazon.com/HELLOYEE-Breadboard-Trim-Potentiometer-Arduino/dp/B01IK6GT1E/146-2028089-1150954?psc=1)
 * [Photo cell](https://www.digikey.com/products/en?mpart=161&v=1528)
 * [DC Brushless Motor](https://www.digikey.com/products/en?mpart=711&v=1528)
 * [TIP120 Transistor](https://www.digikey.com/product-detail/en/on-semiconductor/TIP120TU/TIP120TUFS-ND/1052473)
-* [1N4001 Diode](https://www.digikey.com/product-detail/en/comchip-technology/1N4001-G/641-1310-3-ND/1979654)
-* [Buttons (SPST)](https://www.amazon.com/6x6x6mm-Momentary-Push-Button-Switch/dp/B01GN79QF8)
+* [1N4001 Diode](https://www.digikey.com/product-detail/en/comchip-technology/1N4001-G/641-1310-1-ND/1979675)
+* [Buttons (SPST)](https://www.amazon.com/microtivity-IM206-6x6x6mm-Tact-Switch/dp/B004RXKWI6)
 * [Through-Hole Resistors - 220 ohm 10% 1/4W](https://www.digikey.com/product-detail/en/yageo/CFR-25JB-52-220R/220QBK-ND/1295)
 * [Through-Hole Resistors - 10K ohm 10% 1/4W](https://www.digikey.com/product-detail/en/stackpole-electronics-inc/CF14JT10K0/CF14JT10K0CT-ND/1830374)
 * [LEDs](https://www.amazon.com/Projects-B-0001-B07-Red-LED-Pack/dp/B00B793SIE)
@@ -51,7 +51,7 @@ Meeting Time: 5:00PM to 6:30PM PST via Zoom (see email for Zoom info)
 
 
 ### Physical Computing (ESP32)
-* Week 4: Voltage Dividers / Sensors
+* Week 4: ESP32 Setup and Introduction
 * Week 5: Multitasking
 * Week 8: Deployment
 
