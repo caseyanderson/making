@@ -44,19 +44,5 @@ Meeting Time: 5:00PM to 6:30PM PST via Zoom (see email for Zoom info)
 
 ## Workshop Schedule (subject to change)
 
-### Intro to Python3 & Electronics (intro)
-* Week 1: Anaconda & The Command Line
-* Week 2: Python3
-* Week 3: Paper Circuits
-
-
 ### Physical Computing (ESP32)
-* Week 4: ESP32 Setup and Introduction
-* Week 5: Multitasking
-* Week 8: Deployment
-
-
-### Media Control (RPi)
-* Week 9: Loop a Video Forever
-* Week 10: Designing Sounds (Supercollider 3)
-* Week 12: Designing Sounds for Interaction
+* Week 3 Anaconda & Micropython Setup for ESP32

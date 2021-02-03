@@ -4,6 +4,7 @@ title:  "Micropython Basics"
 date:   2020-10-13 07:00:00 -0700
 categories: "esp32"
 week: "5"
+published: false
 ---
 
 # Digital Output
